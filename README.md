@@ -1,4 +1,4 @@
-# RFM-Analysis-
+# RFM-Analysis
 ## Total Sales and Orders:
 	•	The total sales amount is 109.85M, and a total of 121K orders were processed, reflecting strong business activity.
 ## Customer Segmentation:
